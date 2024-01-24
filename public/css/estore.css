@@ -1,0 +1,59 @@
+#card1{
+    margin-left: 200px;
+    padding: 20px;
+}
+#h5-products{
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+#p1{
+    text-align: center;
+    font-style: italic;
+}
+#p-products{
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-style: bold;
+
+}
+#latest-btn{
+    color: white;
+    background-color: rgb(62, 61, 61);
+    text-align: left;
+    letter-spacing: 1px;
+}
+
+#latest-btn:hover{
+    color:  rgb(62, 61, 61);
+    background-color: white;
+    text-align: left;
+    letter-spacing: 1px;
+}
+#button-intro{  
+    color: white;
+    background-color: rgb(62, 61, 61);
+    text-align: left;
+    letter-spacing: 1px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+#button-intro:hover{  
+    color:  rgb(62, 61, 61);
+    background-color: white;
+    text-align: left;
+    letter-spacing: 1px;
+}
+#img{
+    border-radius: 50px;
+}
+#footer-link{
+    text-decoration: none;
+    color: white;
+}
+#cardshop{
+    align-items: center;
+}
